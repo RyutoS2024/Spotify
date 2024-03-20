@@ -1,0 +1,415 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+      },
+      "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+      "id": "6mEQK9m2krja6X1cfsAjfl",
+      "name": "Ado",
+      "type": "artist",
+      "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+    }
+  ],
+  "available_markets": [
+    "HK",
+    "JP",
+    "MO",
+    "TW"
+  ],
+  "copyrights": [
+    {
+      "text": "© 2023 UNIVERSAL MUSIC LLC",
+      "type": "C"
+    },
+    {
+      "text": "℗ 2023 UNIVERSAL MUSIC LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602458830705"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4cnBUmiIGHBHozAVteqWXT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4cnBUmiIGHBHozAVteqWXT",
+  "id": "4cnBUmiIGHBHozAVteqWXT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735e1b5cb7f14f2f7870938e99",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025e1b5cb7f14f2f7870938e99",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515e1b5cb7f14f2f7870938e99",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music LLC",
+  "name": "Adoの歌ってみたアルバム",
+  "popularity": 64,
+  "release_date": "2023-12-13",
+  "release_date_precision": "day",
+  "total_tracks": 10,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4cnBUmiIGHBHozAVteqWXT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "JP",
+          "MO",
+          "TW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 288800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Vv1nFQzl47ZKArinuF3Es"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Vv1nFQzl47ZKArinuF3Es",
+        "id": "3Vv1nFQzl47ZKArinuF3Es",
+        "is_local": false,
+        "name": "ドライフラワー",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Vv1nFQzl47ZKArinuF3Es"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "JP",
+          "MO",
+          "TW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 252573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2nGT86g8QCaZX3EDYoP2uJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2nGT86g8QCaZX3EDYoP2uJ",
+        "id": "2nGT86g8QCaZX3EDYoP2uJ",
+        "is_local": false,
+        "name": "飾りじゃないのよ 涙は",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2nGT86g8QCaZX3EDYoP2uJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "JP",
+          "MO",
+          "TW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 258372,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0y51oilkHg6ZrtCqSoxb1W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0y51oilkHg6ZrtCqSoxb1W",
+        "id": "0y51oilkHg6ZrtCqSoxb1W",
+        "is_local": false,
+        "name": "愛して愛して愛して",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0y51oilkHg6ZrtCqSoxb1W"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "JP",
+          "MO",
+          "TW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 290720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NRQJbQmZ5BU8QpsEYY2jY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2NRQJbQmZ5BU8QpsEYY2jY",
+        "id": "2NRQJbQmZ5BU8QpsEYY2jY",
+        "is_local": false,
+        "name": "罪と罰",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2NRQJbQmZ5BU8QpsEYY2jY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "JP",
+          "MO",
+          "TW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 219133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HHFCfMYMnCXM8T3iofubG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1HHFCfMYMnCXM8T3iofubG",
+        "id": "1HHFCfMYMnCXM8T3iofubG",
+        "is_local": false,
+        "name": "可愛くてごめん",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1HHFCfMYMnCXM8T3iofubG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "JP",
+          "MO",
+          "TW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 199800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0f8sTi3wquQrV6cdflhbxl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0f8sTi3wquQrV6cdflhbxl",
+        "id": "0f8sTi3wquQrV6cdflhbxl",
+        "is_local": false,
+        "name": "ヴィラン",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0f8sTi3wquQrV6cdflhbxl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "JP",
+          "MO",
+          "TW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 204506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eoZADXS1qo1b4RqoJl3Sh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0eoZADXS1qo1b4RqoJl3Sh",
+        "id": "0eoZADXS1qo1b4RqoJl3Sh",
+        "is_local": false,
+        "name": "神っぽいな",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0eoZADXS1qo1b4RqoJl3Sh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "JP",
+          "MO",
+          "TW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 238360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70uXZOjJ3snY8wmodXnr9Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70uXZOjJ3snY8wmodXnr9Q",
+        "id": "70uXZOjJ3snY8wmodXnr9Q",
+        "is_local": false,
+        "name": "unravel",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:70uXZOjJ3snY8wmodXnr9Q"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "JP",
+          "MO",
+          "TW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 198893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jJR9vHfvEOdHnmYuYkgl3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1jJR9vHfvEOdHnmYuYkgl3",
+        "id": "1jJR9vHfvEOdHnmYuYkgl3",
+        "is_local": false,
+        "name": "ブリキノダンス",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1jJR9vHfvEOdHnmYuYkgl3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "JP",
+          "MO",
+          "TW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 308840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49rZSEjL1ZLjsAVCdnyKyD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/49rZSEjL1ZLjsAVCdnyKyD",
+        "id": "49rZSEjL1ZLjsAVCdnyKyD",
+        "is_local": false,
+        "name": "夜明けと蛍",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:49rZSEjL1ZLjsAVCdnyKyD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10
+  },
+  "type": "album",
+  "uri": "spotify:album:4cnBUmiIGHBHozAVteqWXT"
+}
